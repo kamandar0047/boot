@@ -1,0 +1,14 @@
+.adam {
+display: flex;
+justify-content: center;
+height: 600px;
+}
+.adam:hover{
+   background-position: left;
+   box-sizing: 20px;
+}
+ .a:hover{
+
+-ms-zoom-animation: initial;
+
+ }
